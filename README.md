@@ -15,3 +15,4 @@
   0. You just DO WHAT THE FUCK YOU WANT TO.
 </pre>
 A simple demo of random number guessing game using vanilla javascript.
+![demo](https://github.com/kaitolucifer/guess-my-number/blob/main/demo.png?raw=true)
